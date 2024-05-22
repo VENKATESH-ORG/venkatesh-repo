@@ -2,3 +2,7 @@ Personal:
     name: venkatesh
     dob: 30/4/204
     age: 25
+Education:
+    clg: vignan
+    degree: btech
+    percentage: 83
